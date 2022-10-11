@@ -1,6 +1,6 @@
 {
-    "name": "fisheries_explorer",
-    "short_name": "fisheries_explorer",
+    "name": "Fisheries Explorer",
+    "short_name": "Fisheries Explorer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
